@@ -1324,7 +1324,7 @@ ggplot(average_values, aes(hour, avg_intensity_per_hour, fill = hour)) +
   )
 ```
 
-![](BellaBeat_Case_Study_Google_DA_Certificate_files/figure-gfm/unnamed-chunk-26-1.png)<!-- -->
+![avg_amt_of_intensities_per_hour](https://user-images.githubusercontent.com/78634091/159148853-b7dd5a23-6803-4718-933b-abce9405a580.png)
 
 ## Finding No.2
 
@@ -1377,7 +1377,7 @@ sleepDay_merged %>%
   ) 
 ```
 
-![](BellaBeat_Case_Study_Google_DA_Certificate_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![avg_amount_of_sleeping_hours](https://user-images.githubusercontent.com/78634091/159148921-0c5f49fe-e29a-4903-9117-bef3c38431b0.png)
 
 ``` r
 sleepDay_merged %>%
@@ -1403,7 +1403,7 @@ sleepDay_merged %>%
   ) 
 ```
 
-![](BellaBeat_Case_Study_Google_DA_Certificate_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
+![average_time_in_bed](https://user-images.githubusercontent.com/78634091/159148943-2ff73826-27d4-4592-adbf-d09bf9fcb18a.png)
 
 ``` r
 ggplot(
@@ -1420,7 +1420,7 @@ ggplot(
   ) 
 ```
 
-![](BellaBeat_Case_Study_Google_DA_Certificate_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
+![count_of_sleep_records](https://user-images.githubusercontent.com/78634091/159149004-3243c3bb-ea51-4b3d-9a95-3cc70a8b169a.png)
 
 ## Finding No.3
 
